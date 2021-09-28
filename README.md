@@ -4,7 +4,7 @@ This is the home of the Open edX Frontend Working Group (FWG).  For more informa
 
 # Join us
 
-Teach us a little about what's important to you.  Create an Issue in this repository introducing yourself, and answer these questions:
+Teach us a little about what's important to you.  Create an Issue in this repository introducing yourself and answer these questions:
 
 1. What's your background with Open edX?
 2. What are your biggest Open edX frontend concerns today?
